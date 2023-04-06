@@ -2,7 +2,7 @@
  
  ## Os tópicos de programação incluem:
  
- <ol>
+ <ul>
  <li>Lógica de programação e algoritmos</li>
  <li>Sintaxe da linguagem Java</li>
  <li>Classes, atributos e métodos</li>
@@ -14,4 +14,4 @@
  <li>Generics</li>
  <li>Programação funcional e expressões lambda, Stream API</li>
  <li>Manipulação de arquivos</li>
- </ol>
+ </ul>
