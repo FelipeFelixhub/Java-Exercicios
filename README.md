@@ -1,4 +1,4 @@
-﻿# Exercícios realizados durante o curso de Java ministrado pelo instrutor Nélio Alves
+﻿# Exercícios realizados durante o curso de Java 
  
  ## Os tópicos de programação incluem:
  
